@@ -1,2 +1,3 @@
 # PersonalWeb
-Kişisel Web Sitesi
+Kişisel Web Sitesi/Personal Web Site
+Basic.
